@@ -1,0 +1,2 @@
+# Argo
+Trading Platform Project
